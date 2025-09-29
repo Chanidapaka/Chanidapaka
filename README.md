@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior
 ------
 
-I,ve been leaning JavaScript.js for 2 year.
+I,ve been leaning JavaScript.js for 3 year.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chanidapapanta@gmail.com](mailto:chanidapapanta@gmail.com)
